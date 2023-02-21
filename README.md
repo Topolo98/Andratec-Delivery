@@ -1,4 +1,4 @@
-# TOMATO (Zomato Clone) BY - SHIBAM NATH ❤❤
+# TOMATO (Zomato Clone) BY - DEVIKA SIMLAI
 
 
 Zomato is a online food ordering application, we made a clone (Tomato) of it using React Js, Zomato Frontend clone using React Js.
@@ -76,4 +76,4 @@ Zomato is a online food ordering application, we made a clone (Tomato) of it usi
 
 ### Project Completed Date: November 9, 2022
 
-//BY - SHIBAM NATH ❤❤
+**** BY - Devika
